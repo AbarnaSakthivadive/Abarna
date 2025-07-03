@@ -1,0 +1,16 @@
+.lin {
+   display: inline;
+}
+.li {
+  display: block;
+  border: 1px solid rgb(27, 76, 82);    
+  background-color: rgb(166, 223, 233); 
+}
+.container{
+  position: relative;
+    }
+img{
+  float: top;
+  position: static;
+  z-index:4;
+}
